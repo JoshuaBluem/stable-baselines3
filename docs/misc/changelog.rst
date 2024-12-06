@@ -18,6 +18,7 @@ New Features:
 
 Bug Fixes:
 ^^^^^^^^^^
+- Support for start value in Discrete Action spaces
 
 `SB3-Contrib`_
 ^^^^^^^^^^^^^^
